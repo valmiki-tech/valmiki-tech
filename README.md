@@ -44,7 +44,7 @@ Skills are grouped by how they fit into my current work and learning. These labe
 <summary><strong>01 — Hands-on tools and core concepts</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,jenkins,ansible,terraform,python&perline=6" alt="AWS, Linux, Bash, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform and Python" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,jenkins,ansible,terraform,python&amp;perline=6" alt="AWS, Linux, Bash, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform and Python" />
 </p>
 
 - **AWS:** EC2, VPC, S3, IAM, Lambda, RDS, ALB/NLB, Auto Scaling, CloudWatch, EKS
@@ -84,10 +84,10 @@ Skills are grouped by how they fit into my current work and learning. These labe
 
 <div align="center">
 
-<a href="https://github.com/valmiki-tech/eks-gitops-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=eks-gitops-project&theme=github_dark&hide_border=true" alt="Cloud-native GitOps project" /></a>
-<a href="https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=CICD-pipeline-using-Jenkins&theme=github_dark&hide_border=true" alt="Jenkins CI/CD project" /></a>
-<a href="https://github.com/valmiki-tech/Application-Launched-usind-EKS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=Application-Launched-usind-EKS&theme=github_dark&hide_border=true" alt="AWS EKS application project" /></a>
-<a href="https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=Effortless-Website-Hosting-With-AWS&theme=github_dark&hide_border=true" alt="AWS website hosting project" /></a>
+<a href="https://github.com/valmiki-tech/eks-gitops-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=eks-gitops-project&theme=github_dark&amp;hide_border=true" alt="Cloud-native GitOps project" /></a>
+<a href="https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=CICD-pipeline-using-Jenkins&theme=github_dark&amp;hide_border=true" alt="Jenkins CI/CD project" /></a>
+<a href="https://github.com/valmiki-tech/Application-Launched-usind-EKS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=Application-Launched-usind-EKS&theme=github_dark&amp;hide_border=true" alt="AWS EKS application project" /></a>
+<a href="https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=Effortless-Website-Hosting-With-AWS&theme=github_dark&amp;hide_border=true" alt="AWS website hosting project" /></a>
 
 </div>
 
@@ -171,10 +171,10 @@ These are planned learning projects—not claims of completed implementations.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=valmiki-tech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub repository and contribution statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmiki-tech&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages across public repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=valmiki-tech&show_icons=true&theme=github_dark&hide_border=true&amp;rank_icon=github" alt="GitHub repository and contribution statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmiki-tech&layout=compact&theme=github_dark&amp;hide_border=true" alt="Most-used languages across public repositories" />
 
-<img src="https://streak-stats.demolab.com?user=valmiki-tech&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=valmiki-tech&theme=github-dark-blue&amp;hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
