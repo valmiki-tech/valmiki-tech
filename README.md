@@ -2,7 +2,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&text=SAI%20KUMAR%20VALMIKI&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=CLOUD%20%26%20DEVOPS%20ENGINEER&descSize=18&descAlignY=61&color=0:0B1220,50:10243A,100:075985" width="100%" alt="Sai Kumar Valmiki — Cloud and DevOps Engineer" />
+<pre align="center">
+ ____        _   _  __  __    _    ____  
+/ ___|  __ _(_) | |/ / |  \/  |  / ___| 
+\\___ \\ / _` | | | ' /  | |\\/| | | |     
+ ___) | (_| | | | . \\  | |  | | | |___  
+|____/ \\__,_|_| |_|\\_\\ |_|  |_|  \\____| 
+</pre>
+
+<h1 align="center">Sai Kumar Valmiki</h1>
+<p align="center"><strong>Cloud & DevOps Engineer · AWS · Kubernetes · CI/CD · GitOps</strong></p>
 
 ### Build reliable systems. Automate delivery. Learn in public.
 
@@ -10,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kumar-82ba29265)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valmikisaikumar1231@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AWS+Cloud+%7C+Infrastructure+as+Code;CI%2FCD+%7C+Docker+%7C+Kubernetes;GitOps+%7C+Monitoring+%7C+Automation" alt="Cloud and DevOps focus areas" />
+**AWS Cloud** · **Infrastructure as Code** · **CI/CD** · **Containers** · **Observability**
 
 </div>
 
