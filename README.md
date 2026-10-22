@@ -2,24 +2,15 @@
 
 <div align="center">
 
-<pre align="center">
- ____        _   _  __  __    _    ____  
-/ ___|  __ _(_) | |/ / |  \/  |  / ___| 
-\\___ \\ / _` | | | ' /  | |\\/| | | |     
- ___) | (_| | | | . \\  | |  | | | |___  
-|____/ \\__,_|_| |_|\\_\\ |_|  |_|  \\____| 
-</pre>
+# Sai Kumar Valmiki
 
-<h1 align="center">Sai Kumar Valmiki</h1>
-<p align="center"><strong>Cloud & DevOps Engineer · AWS · Kubernetes · CI/CD · GitOps</strong></p>
+### Cloud & DevOps Engineer | AWS · Kubernetes · CI/CD
 
-### Build reliable systems. Automate delivery. Learn in public.
+*Building reliable cloud infrastructure and automated delivery workflows.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-161B22?style=for-the-badge&logo=github)](https://github.com/valmiki-tech?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kumar-82ba29265)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valmikisaikumar1231@gmail.com)
-
-**AWS Cloud** · **Infrastructure as Code** · **CI/CD** · **Containers** · **Observability**
+[![GitHub Projects](https://img.shields.io/badge/Projects-Explore%20my%20work-24292f?style=flat-square&logo=github)](https://github.com/valmiki-tech?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sai-kumar-82ba29265)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valmikisaikumar1231@gmail.com)
 
 </div>
 
