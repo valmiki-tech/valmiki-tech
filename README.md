@@ -6,7 +6,7 @@
 
 # Sai Kumar Valmiki
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AWS+Cloud+Engineer;DevOps+%7C+CI%2FCD+%7C+Automation;Docker+%7C+Kubernetes+%7C+GitOps;Building+reliable+cloud-native+workflows" alt="Animated typing text: AWS Cloud Engineer, DevOps, CI/CD, automation, Kubernetes and GitOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AWS+Cloud+Engineer;DevOps+%7C+CI%2FCD+%7C+Automation;Docker+%7C+Kubernetes+%7C+GitOps;Building+reliable+cloud-native+workflows" alt="Animated typing text: Ansible, Helm, CI/CD, automation, Kubernetes, GitOps, Prometheus, Grafana, Argo CD " />
 
 **Automate delivery. Engineer for reliability. Keep learning.**
 
