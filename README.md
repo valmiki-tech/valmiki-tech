@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=190&amp;section=header&amp;text=Cloud%20Engineering&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn" alt="Animated blue cloud and DevOps banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=190&amp;section=header&amp;text=AWS%20Cloud%20and%20DevOps&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn" alt="Animated blue cloud and DevOps banner" width="100%" />
 
 # Sai Kumar Valmiki
 
