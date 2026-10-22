@@ -1,90 +1,141 @@
+<!--
+  GitHub Profile README
+  Keep project descriptions aligned with what you have actually built and can explain in an interview.
+-->
+
 <h1 align="center">Hi, I'm Sai Kumar Valmiki 👋</h1>
-<h3 align="center">🚀 DevOps | Cloud Engineer | AWS Enthusiast 🌩️</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS • Kubernetes • CI/CD • Infrastructure as Code</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" width="300px"/>
+  <a href="https://github.com/valmiki-tech">
+    <img src="https://komarev.com/ghpvc/?username=valmiki-tech&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-kumar-82ba29265">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:valmikisaikumar1231@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" width="260" alt="Animated coding illustration" />
 </p>
 
 ---
 
-### 🔧 **Tech Stack & Cloud, DevOps Tools**
-<p align="center">
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="Kubernetes" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" alt="Jenkins" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" alt="Ansible" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Podman.svg" alt="Podman" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="Terraform" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" alt="GitLab" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/PuTTY.svg" alt="PUTTY" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Apache.svg" alt="Apache" width="50"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="Prometheus" width="50"/>
-  
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering graduate focused on **AWS Cloud and DevOps**. I enjoy building practical cloud labs and deployment workflows, containerizing applications, and learning how teams deliver reliable software.
+
+- ☁️ Exploring cloud infrastructure, networking, and AWS services.
+- ⚙️ Practicing CI/CD automation, containers, Kubernetes, and GitOps workflows.
+- 🏗️ Learning Infrastructure as Code with Terraform and configuration automation with Ansible.
+- 📈 Building monitoring skills with Prometheus and Grafana.
+- 🎯 Looking for opportunities to contribute to cloud infrastructure, platform operations, and reliable deployments.
+
+## 🧰 Technologies & Tools
+
+### Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure" />
+</p>
+
+### Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes" />
+</p>
+
+### CI/CD, GitOps & Infrastructure as Code
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,terraform,ansible" alt="Jenkins, GitHub, GitLab, Terraform, and Ansible" />
+</p>
+
+### Linux, Scripting & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,prometheus,grafana" alt="Linux, Bash, Python, Prometheus, and Grafana" />
+</p>
+
+<p>
+  <strong>Also familiar with:</strong> AWS EC2, VPC, S3, IAM, Lambda, RDS, ALB/NLB, EKS, CloudWatch, AWS CLI, kubectl, eksctl, Helm, Argo CD, GitHub Actions, YAML, JSON, Git, and Apache.
 </p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valmiki-tech&label=Profile%20views&color=0e75b6&style=flat" alt="valmiki-tech" /> </p>
+## 🚀 Featured Projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valmiki-tech" alt="valmiki-tech" /></a> </p>
+### 1. Automated CI/CD Pipeline
+**Stack:** Git, GitHub, Jenkins, Ansible, Docker, AWS
 
-<h3 align="left">Connect with me:</h3>
+A hands-on CI/CD project focused on automating application delivery through source control, pipeline execution, configuration management, and containerization.
 
+**What to explore:** pipeline stages, build and deployment flow, Ansible automation, and the way each tool fits into the release process.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valmiki-tech&show_icons=true&locale=en&layout=compact" alt="valmiki-tech" /></p>
+🔗 **[View repository](https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valmiki-tech&show_icons=true&locale=en" alt="valmiki-tech" /></p>
+### 2. Game Application Deployment on Amazon EKS
+**Stack:** Amazon EKS, Kubernetes, kubectl, eksctl, AWS CLI, Fargate
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valmiki-tech&" alt="valmiki-tech" /></p>
+A Kubernetes deployment project exploring how to run a game application on AWS-managed Kubernetes and use Kubernetes resources to manage application deployment.
 
-### 🚀 **Projects**
-#### 🔹 **Automated CI/CD Pipeline**
-📌 **Tools:** GitHub, Jenkins, Ansible, Docker, AWS  
-📌 **Description:** Automates the deployment of web applications using a CI/CD pipeline.  
+**What to explore:** cluster setup, Kubernetes manifests, deployment and service configuration, and application access.
 
-![CI/CD Pipeline](https://i1.wp.com/mirai-solutions.ch/assets/images/CICDAnimated.gif?w=578&ssl=1)  
-📌 **Repo:** [GitHub Link](https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins)  
+🔗 **[View repository](https://github.com/valmiki-tech/Application-Launched-usind-EKS)**
 
----
+### 3. Multi-Site Hosting on AWS
+**Stack:** EC2, VPC, S3, Load Balancing, Auto Scaling, CloudWatch
 
-#### 🔹 **Game App Deployment on AWS EKS**
-📌 **Tools:** Kubernetes, EKS, Kubectl, Eksctl, AWS CLI, Fargate  
-📌 **Description:** Deploys a game app on AWS infrastructure using Kubernetes for scalability.  
+A cloud-hosting project focused on AWS networking and compute building blocks for hosting websites, with load balancing, scaling, and monitoring concepts.
 
-![Kubernetes Deployment](https://cdn.thenewstack.io/media/2024/06/262ce90d-rolling.gif)  
-📌 **Repo:** [GitHub Link](https://github.com/valmiki-tech/Application-Launched-usind-EKS)  
+**What to explore:** VPC and networking design, hosting architecture, load balancing, scaling considerations, and CloudWatch monitoring.
 
----
+🔗 **[View repository](https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS)**
 
-#### 🔹 **Multi-Site Hosting on AWS**
-📌 **Tools:** EC2, VPC, S3, Load Balancing, CloudWatch, Auto Scaling  
-📌 **Description:** Hosting multiple websites on AWS with scalability and monitoring.  
+### 4. Kubernetes GitOps & Monitoring Lab
+**Stack:** Kubernetes, Helm, Argo CD, Prometheus, Grafana
 
-![AWS Hosting](https://www.cdipits.com/public/uploads/service-3.gif)  
-📌 **Repo:** [GitHub Link](https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS)  
+A practical learning lab for deploying Kubernetes workloads and exploring GitOps-based delivery and monitoring dashboards.
+
+🔗 **[Explore my repositories](https://github.com/valmiki-tech?tab=repositories)**
 
 ---
 
-### 📜 **Certifications & Trainings**
-✅ AWS Cloud Computing & DevOps (Seven Mentors Training)  
-✅ Linux Administration (RHCSA & RHCE)  
-✅ CCNA Networking & Security  
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=valmiki-tech&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmiki-tech&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=valmiki-tech&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-### 📫 **Connect with Me**
-📩 **Email:** [valmikisaikumar1231@gmail.com](mailto:valmikisaikumar1231@gmail.com)  
-🔗 **LinkedIn:** [Sai Kumar Valmiki](http://www.linkedin.com/in/sai-kumar-82ba29265)   
+## 📜 Training & Certifications
+
+- **AWS Cloud Computing & DevOps** — Seven Mentors training
+- **Linux Administration** — RHCSA / RHCE training
+- **Networking & Security** — CCNA training
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sai-kumar-82ba29265">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Kumar%20Valmiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:valmikisaikumar1231@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+  </a>
+</p>
+
+📧 **Email:** [valmikisaikumar1231@gmail.com](mailto:valmikisaikumar1231@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/sai-kumar-82ba29265](https://www.linkedin.com/in/sai-kumar-82ba29265)  
+💻 **GitHub:** [github.com/valmiki-tech](https://github.com/valmiki-tech)
 
 ---
 
-### 🎯 **Fun Fact**
-> "I think I am funny 😂, but my Jenkins pipeline disagrees sometimes!"  
+> “Automate the repeatable, monitor what matters, and keep learning.”
 
----
-
-💡 _Feel free to fork my repositories and contribute! 🚀_  
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and share feedback!
