@@ -1,141 +1,165 @@
-<!--
-  GitHub Profile README
-  Keep project descriptions aligned with what you have actually built and can explain in an interview.
--->
+<!-- Sai Kumar Valmiki | Cloud & DevOps Engineering Portfolio -->
 
-<h1 align="center">Hi, I'm Sai Kumar Valmiki 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS • Kubernetes • CI/CD • Infrastructure as Code</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/valmiki-tech">
-    <img src="https://komarev.com/ghpvc/?username=valmiki-tech&label=Profile%20views&color=2563eb&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-kumar-82ba29265">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:valmikisaikumar1231@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=SAI%20KUMAR%20VALMIKI&fontSize=43&fontColor=ffffff&stroke=38bdf8&strokeWidth=1&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20GitOps&descSize=16&descAlignY=68&color=0:020617,45:0f172a,100:111827" width="100%" alt="Sai Kumar Valmiki — Cloud and DevOps Engineer" />
 
-<p align="center">
-  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" width="260" alt="Animated coding illustration" />
-</p>
+<a href="https://github.com/valmiki-tech"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/sai-kumar-82ba29265"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:valmikisaikumar1231@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Automate+the+boring.+Engineer+the+reliable.;Cloud+Infrastructure+%7C+CI%2FCD+%7C+Containers;GitOps+%7C+Observability+%7C+Infrastructure+as+Code" alt="Animated engineering tagline" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## The Engineer Behind the Commits
 
-I'm a Computer Science Engineering graduate focused on **AWS Cloud and DevOps**. I enjoy building practical cloud labs and deployment workflows, containerizing applications, and learning how teams deliver reliable software.
+I'm a Computer Science Engineering graduate focused on **Cloud & DevOps engineering**. I build hands-on projects that connect code to infrastructure—from automated CI pipelines and container security to Kubernetes deployments and GitOps reconciliation.
 
-- ☁️ Exploring cloud infrastructure, networking, and AWS services.
-- ⚙️ Practicing CI/CD automation, containers, Kubernetes, and GitOps workflows.
-- 🏗️ Learning Infrastructure as Code with Terraform and configuration automation with Ansible.
-- 📈 Building monitoring skills with Prometheus and Grafana.
-- 🎯 Looking for opportunities to contribute to cloud infrastructure, platform operations, and reliable deployments.
+I care about the engineering behind a deployment: **repeatability, traceability, security, health checks, and the ability to troubleshoot when something breaks.**
 
-## 🧰 Technologies & Tools
+- **Cloud:** AWS fundamentals, networking, compute, storage, IAM, and EKS learning labs
+- **Delivery:** GitHub Actions, Jenkins, Docker, image publishing, and automated workflows
+- **Platform:** Kubernetes, Helm, Argo CD, and declarative deployments
+- **Infrastructure:** Terraform, Ansible, Linux, Git, and scripting
+- **Observability:** Prometheus, Grafana, and application health checks
 
-### Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure" />
-</p>
+<div align="center">
 
-### Containers & Orchestration
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes" />
-</p>
+| BUILD | SHIP | OPERATE |
+|:---:|:---:|:---:|
+| Infrastructure & automation | CI/CD & GitOps | Health, metrics & troubleshooting |
 
-### CI/CD, GitOps & Infrastructure as Code
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,terraform,ansible" alt="Jenkins, GitHub, GitLab, Terraform, and Ansible" />
-</p>
+</div>
 
-### Linux, Scripting & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,prometheus,grafana" alt="Linux, Bash, Python, Prometheus, and Grafana" />
-</p>
+## Engineering Stack
 
-<p>
-  <strong>Also familiar with:</strong> AWS EC2, VPC, S3, IAM, Lambda, RDS, ALB/NLB, EKS, CloudWatch, AWS CLI, kubectl, eksctl, Helm, Argo CD, GitHub Actions, YAML, JSON, Git, and Apache.
-</p>
+<div align="center">
 
----
+**CLOUD & INFRASTRUCTURE**  
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux,bash&theme=dark" alt="AWS, Terraform, Ansible, Linux, Bash" />
 
-## 🚀 Featured Projects
+**CONTAINERS & PLATFORM ENGINEERING**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" alt="Docker, Kubernetes, Helm" />
 
-### 1. Automated CI/CD Pipeline
-**Stack:** Git, GitHub, Jenkins, Ansible, Docker, AWS
+**DELIVERY & SOURCE CONTROL**  
+<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,gitlab&theme=dark" alt="GitHub, GitHub Actions, Jenkins, GitLab" />
 
-A hands-on CI/CD project focused on automating application delivery through source control, pipeline execution, configuration management, and containerization.
+**CODE & OBSERVABILITY**  
+<img src="https://skillicons.dev/icons?i=python,prometheus,grafana&theme=dark" alt="Python, Prometheus, Grafana" />
 
-**What to explore:** pipeline stages, build and deployment flow, Ansible automation, and the way each tool fits into the release process.
+</div>
 
-🔗 **[View repository](https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins)**
+<details>
+<summary><strong>Full toolset and services</strong></summary>
 
-### 2. Game Application Deployment on Amazon EKS
-**Stack:** Amazon EKS, Kubernetes, kubectl, eksctl, AWS CLI, Fargate
+**AWS:** EC2, VPC, S3, IAM, Lambda, RDS, ALB/NLB, EKS, CloudWatch, Auto Scaling, AWS CLI  
+**Containers:** Docker, Kubernetes, Amazon EKS, Fargate, Helm  
+**CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD, Git, GitHub, GitLab  
+**Infrastructure automation:** Terraform, Ansible, CloudFormation  
+**Monitoring:** Prometheus, Grafana, Node Exporter, kube-state-metrics  
+**Systems & scripting:** Linux, Bash, Python, YAML, JSON, Apache
 
-A Kubernetes deployment project exploring how to run a game application on AWS-managed Kubernetes and use Kubernetes resources to manage application deployment.
-
-**What to explore:** cluster setup, Kubernetes manifests, deployment and service configuration, and application access.
-
-🔗 **[View repository](https://github.com/valmiki-tech/Application-Launched-usind-EKS)**
-
-### 3. Multi-Site Hosting on AWS
-**Stack:** EC2, VPC, S3, Load Balancing, Auto Scaling, CloudWatch
-
-A cloud-hosting project focused on AWS networking and compute building blocks for hosting websites, with load balancing, scaling, and monitoring concepts.
-
-**What to explore:** VPC and networking design, hosting architecture, load balancing, scaling considerations, and CloudWatch monitoring.
-
-🔗 **[View repository](https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS)**
-
-### 4. Kubernetes GitOps & Monitoring Lab
-**Stack:** Kubernetes, Helm, Argo CD, Prometheus, Grafana
-
-A practical learning lab for deploying Kubernetes workloads and exploring GitOps-based delivery and monitoring dashboards.
-
-🔗 **[Explore my repositories](https://github.com/valmiki-tech?tab=repositories)**
+</details>
 
 ---
 
-## 📊 GitHub Activity
+## Featured Engineering Work
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=valmiki-tech&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmiki-tech&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=valmiki-tech&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<a href="https://github.com/valmiki-tech/eks-gitops-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=eks-gitops-project&theme=github_dark&hide_border=true" alt="GitOps project card" /></a>
+<a href="https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=CICD-pipeline-using-Jenkins&theme=github_dark&hide_border=true" alt="Jenkins project card" /></a>
+<a href="https://github.com/valmiki-tech/Application-Launched-usind-EKS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=Application-Launched-usind-EKS&theme=github_dark&hide_border=true" alt="EKS project card" /></a>
+<a href="https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=valmiki-tech&repo=Effortless-Website-Hosting-With-AWS&theme=github_dark&hide_border=true" alt="AWS hosting project card" /></a>
+
+</div>
+
+### 01 / Cloud-Native GitOps & Microservices Automation
+**Python · Docker · GitHub Actions · Trivy · GHCR · Kubernetes · Kind · Argo CD**
+
+A local Kubernetes delivery pipeline that connects code changes to tested, scanned, versioned container images and GitOps-based deployment updates.
+
+- Runs Python syntax checks and unit tests in GitHub Actions.
+- Builds a container image and scans it for high/critical vulnerabilities with Trivy.
+- Publishes versioned images to GitHub Container Registry.
+- Updates the Kubernetes manifest with the commit-specific image tag.
+- Uses Argo CD to reconcile the declared Git state with a local Kind cluster.
+
+**Engineering focus:** repeatable delivery, image traceability, security gates, health probes, and declarative operations.
+
+<a href="https://github.com/valmiki-tech/eks-gitops-project">↗ Explore the implementation and architecture</a>
+
+<sub>Environment note: the current implementation is local Kind; AWS EKS and Terraform are planned enhancements, not claimed as deployed in this project.</sub>
+
+### 02 / Automated CI/CD with Jenkins
+**Git · GitHub · Jenkins · Ansible · Docker · AWS**
+
+A practical pipeline project focused on connecting source control, build/deployment automation, configuration management, and container delivery.
+
+<a href="https://github.com/valmiki-tech/CICD-pipeline-using-Jenkins">↗ View repository</a>
+
+### 03 / Application Deployment on Amazon EKS
+**AWS · EKS · Kubernetes · kubectl · eksctl · AWS CLI · Fargate**
+
+A cloud-native application deployment project exploring Kubernetes workloads on AWS-managed infrastructure.
+
+<a href="https://github.com/valmiki-tech/Application-Launched-usind-EKS">↗ View repository</a>
+
+### 04 / Multi-Site Website Hosting on AWS
+**EC2 · VPC · S3 · Load Balancing · Auto Scaling · CloudWatch**
+
+A cloud-hosting project exploring AWS networking and compute services, website hosting, traffic distribution, scaling concepts, and monitoring.
+
+<a href="https://github.com/valmiki-tech/Effortless-Website-Hosting-With-AWS">↗ View repository</a>
 
 ---
 
-## 📜 Training & Certifications
+## GitHub Engineering Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=valmiki-tech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmiki-tech&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=valmiki-tech&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=valmiki-tech&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## Training & Learning
 
 - **AWS Cloud Computing & DevOps** — Seven Mentors training
 - **Linux Administration** — RHCSA / RHCE training
 - **Networking & Security** — CCNA training
 
-## 🤝 Connect With Me
+## Current Engineering Focus
 
-<p>
-  <a href="https://www.linkedin.com/in/sai-kumar-82ba29265">
-    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Kumar%20Valmiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:valmikisaikumar1231@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-  </a>
-</p>
+- Designing reproducible cloud infrastructure with Terraform
+- Improving Kubernetes deployment and troubleshooting skills
+- Strengthening secure CI/CD and GitOps workflows
+- Building actionable dashboards and monitoring signals
+- Documenting projects so another engineer can reproduce the setup
 
-📧 **Email:** [valmikisaikumar1231@gmail.com](mailto:valmikisaikumar1231@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/sai-kumar-82ba29265](https://www.linkedin.com/in/sai-kumar-82ba29265)  
-💻 **GitHub:** [github.com/valmiki-tech](https://github.com/valmiki-tech)
+## Let's Connect
 
----
+<div align="center">
 
-> “Automate the repeatable, monitor what matters, and keep learning.”
+<a href="https://www.linkedin.com/in/sai-kumar-82ba29265"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:valmikisaikumar1231@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/valmiki-tech?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and share feedback!
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=valmiki-tech&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITORS" alt="Profile visitors" />
+
+<br/><br/>
+
+**Make it repeatable. Make it observable. Make it reliable.**
+
+</div>
