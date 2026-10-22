@@ -2,9 +2,11 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=190&amp;section=header&amp;text=Cloud%20%26%20DevOps&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn" alt="Animated blue cloud and DevOps banner" width="100%" />
+
 # Sai Kumar Valmiki
 
-### AWS Cloud Engineer · DevOps Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AWS+Cloud+Engineer;DevOps+%7C+CI%2FCD+%7C+Automation;Docker+%7C+Kubernetes+%7C+GitOps;Building+reliable+cloud-native+workflows" alt="Animated typing text: AWS Cloud Engineer, DevOps, CI/CD, automation, Kubernetes and GitOps" />
 
 **Automate delivery. Engineer for reliability. Keep learning.**
 
@@ -44,6 +46,8 @@ The categories below distinguish tools I use or have practised from areas I am a
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,jenkins,ansible,terraform,python&amp;perline=6" alt="AWS, Linux, Bash, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform and Python" />
+
+<sub>Tool icons are intentionally static for readability; the animated headline above carries the motion.</sub>
 
 </div>
 
